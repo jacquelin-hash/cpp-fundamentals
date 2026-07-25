@@ -10,7 +10,7 @@ using namespace std;
 //varaibles and data types 
 /*
 variable is a container that is just a container that takes 
-memory and that container can hold a data of a certain type 
+memory, and that container can hold data of a certain type 
 
 the type can be an integer number or it can be a 
 */
