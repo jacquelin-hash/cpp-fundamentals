@@ -24,7 +24,7 @@ int main(){
     string username = "jackieguacamole";
     bool isTodaySunny = false; // smallest data type in C++
     string colors[10] ={"red", "green", "pink", "blue", "black"};
-    // if you create your array and then you intialize it you can omit that size of the array 
+    // if you create your array and then you initialize it, you can omit the size of the array 
     // string colors[] = {"red", "green", "pink", "black"};
 
     // you don't even have to give variables that you are storing in your 
