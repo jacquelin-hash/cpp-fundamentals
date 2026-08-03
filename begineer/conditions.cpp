@@ -31,3 +31,4 @@ int main(){
    
    /*isTodaySunny ? cout << "Go to the park" : cout << "Take an umbrella outside"; */
 }
+
